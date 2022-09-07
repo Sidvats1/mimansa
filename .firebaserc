@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mimansa-42444"
+  },
+  "targets": {
+    "mimansa-42444": {
+      "hosting": {
+        "mimansa": [
+          "mimansa-42444"
+        ]
+      }
+    }
+  }
+}
